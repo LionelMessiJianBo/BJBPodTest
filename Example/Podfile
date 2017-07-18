@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BJBPodTest_Tests' do
+  pod 'BJBPodTest', :path => '../'
+  
+  
+end
