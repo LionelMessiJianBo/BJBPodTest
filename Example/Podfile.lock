@@ -1,0 +1,16 @@
+PODS:
+  - BJBPodTest (0.1.0)
+
+DEPENDENCIES:
+  - BJBPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  BJBPodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BJBPodTest: cfe750d1ae093034ffb2ddc3627d06dc9c245eb1
+
+PODFILE CHECKSUM: fc6e90ac53dd439e690b363e88734c630f92f990
+
+COCOAPODS: 1.2.1

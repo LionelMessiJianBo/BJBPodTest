@@ -1,0 +1,6 @@
+framework module BJBPodTest {
+  umbrella header "BJBPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
